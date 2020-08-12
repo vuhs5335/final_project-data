@@ -1,0 +1,14 @@
+Data 
+
+To perform the analysis, we will use:
+
+1.	List of cities and zip codes in Hidalgo, County
+2.	Geocoders API to acquire coordinate data
+3.	Foursquare API to analyze business location data. 
+
+Methodology
+
+1.	Extract a list of cities by county from a web page.
+2.	Gather coordinate data using geocoder api.
+3.	Compile a list of businesses by location and type. 
+4.	Analyze the data to determine the most profitable are within his immediate surrounding.
